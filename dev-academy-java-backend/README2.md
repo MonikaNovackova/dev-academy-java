@@ -9,7 +9,7 @@ This section of the test has 3 steps which you will need to complete, and a set 
 
 The Java 11 application is a Spring Boot Application (monika: Spring Boot is something as Flask) built with Maven (Davie: Maven is s built tool. Build tool includes compiler which takes the code and translate it to a different code which can be run. Kind of difficult to explain if you have never used compiled code:-) In python there is no built language. Python 3 is a programm which is an interpreter, not a compile. It can execute python scripts).
 
- It uses an H2 in memory database which is refreshed on starting the application. 
+It uses an H2 in memory database which is refreshed on starting the application. 
 
 When the application is running, you can browse to http://localhost:5000 to test out the API and access the database.
 
